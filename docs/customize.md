@@ -1,5 +1,7 @@
 ---
 title: Customize
+layout: home
+aside: false
 ---
 
 <script setup>
